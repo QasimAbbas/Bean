@@ -1,6 +1,6 @@
 # Welcome BEAN to our CAVE family 
 
-## Hey guys!  So Heman and I have been messing around with this raspberry pi in the CAVE and we'd like you guys to use it if you guys want to!
+### Hey guys!  So Heman and I have been messing around with this raspberry pi in the CAVE and we'd like you guys to use it if you guys want to!
 
 ### Current Features
 
