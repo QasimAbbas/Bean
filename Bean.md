@@ -25,10 +25,10 @@ Volume Control
 
 ### Accessing Bean
 
-To login to Bean open a terminal window and ssh!
+To login to Bean open a terminal window on your computer and ssh!
 ```
-ssh pi@172.31.249.144
-password: "hi bean"
+ssh <username@ip> 
+password: <password>
 ```
 
 
