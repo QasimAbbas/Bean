@@ -12,15 +12,15 @@ Motivational Quotes
 
 Pandora
 * Pianobar
- * A terminal tool to play pandora
+  * A terminal tool to play pandora
 
 YouTube
 * MPlayer
- * A termial tool to play YouTube Videos
+  * A termial tool to play YouTube Videos
 
 Volume Control
 * alsamisxer
- * A terminal tool to control volume
+  * A terminal tool to control volume
 
 
 ### Accessing Bean
