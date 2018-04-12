@@ -44,7 +44,7 @@ node ~/Documents/hemans-stuff/rubus-nodejs-tool/nextbus.js
 * Adjust windows accordingly
 * Shift + Ctrl + '+' For font size
 
-Motivational Backgrounds
+##### Motivational Backgrounds
 * From Desktop
 
 ```
@@ -55,7 +55,7 @@ sh start.sh
 cd ~/Pictures/motivational-backgrounds/
 '''
 
-Pianobar
+##### Pianobar
 * No Lyrics in music please!
 
 ```
@@ -67,14 +67,14 @@ pianobar
 https://linux.die.net/man/1/pianobar
 
 
-YouTube
+##### YouTube
 * No Lyrics in music please!
 ```
 mpsyt
 ```
 https://github.com/mps-youtube/mps-youtube
 
-Volume Control
+##### Volume Control
 
 ```
 alsamixer
