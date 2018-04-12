@@ -34,6 +34,8 @@ password: <password>
 
 #### Terminal Commands
 
+man <command> for more information on how to use!
+
 Bus Times
 ```
 node ~/Documents/hemans-stuff/rubus-nodejs-tool/nextbus.js
@@ -47,4 +49,27 @@ Motivational Backgrounds
 ```
 sh start.sh
 ```
+
+Pianobar
+```
+pianobar
+```
+https://linux.die.net/man/1/pianobar
+
+
+YouTube
+
+```
+mpsyt
+```
+https://github.com/mps-youtube/mps-youtube
+
+Volume Control
+
+```
+alsamixer
+```
+
+* Up and Down Arrows to control
+* ESC to escape
 
