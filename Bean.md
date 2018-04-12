@@ -75,7 +75,6 @@ mpsyt
 https://github.com/mps-youtube/mps-youtube
 
 ##### Volume Control
-
 ```
 alsamixer
 ```
