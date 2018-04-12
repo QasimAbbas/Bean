@@ -51,6 +51,7 @@ sh start.sh
 ```
 
 Pianobar
+* No Lyrics in music please!
 ```
 pianobar
 ```
@@ -58,7 +59,7 @@ https://linux.die.net/man/1/pianobar
 
 
 YouTube
-
+* No Lyrics in music please!
 ```
 mpsyt
 ```
