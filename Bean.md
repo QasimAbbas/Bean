@@ -9,6 +9,7 @@ Bus Times
 
 Motivational Quotes
 * To help people stay motivated and positive around here:)
+* Add More pictures!
 
 Pandora
 * Pianobar
@@ -49,12 +50,20 @@ Motivational Backgrounds
 ```
 sh start.sh
 ```
+* Add more photos to:
+```
+cd ~/Pictures/motivational-backgrounds/
+'''
 
 Pianobar
 * No Lyrics in music please!
+
 ```
 pianobar
 ```
+* Pandora username:
+* Pandora password:
+
 https://linux.die.net/man/1/pianobar
 
 
